@@ -1,0 +1,25 @@
+{
+  "videos": [
+    {
+      "title": "Isang Bala Kalang",
+      "artist": "Lito Lapid",
+      "id": 1,
+      "": "2220 "
+    },
+    {
+      "title": "Walanag Matigas na tinapay sa mainit na Kape",
+      "artist": "Fernando Poe Junior",
+      "id": 2
+    },
+    {
+      "title": "Drunken Master",
+      "artist": "Jackie Chan",
+      "id": 3
+    },
+    {
+      "title": "Ong Back",
+      "artist": "Ong Back",
+      "id": 4
+    }
+  ]
+}
